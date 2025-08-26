@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Diego
 
 🎓 Technical School **Professor in Automation and Control**, with experience guiding students in the development of **dozens of real-world projects**.  
+  *🎓 Professor em Escola Técnica de **Automação e Controle**, com experiência orientando alunos no desenvolvimento de **dezenas de projetos reais**.*  
 💻 Passionate about **technology, automation, and software development**.  
-I enjoy building solutions that connect **hardware and software**, from web applications to **embedded systems and IoT projects**.  
+  *💻 Apaixonado por **tecnologia, automação e desenvolvimento de software**.*  
+I enjoy building solutions that connect **hardware and software**, from web applications to **embedded systems and IoT projects**.
+  *Gosto de criar soluções que conectam **hardware e software**, desde aplicações web até **sistemas embarcados e projetos de IoT**.*  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack | *Tecnologias*
 
 ### 🌍 Web Development (in progress)
 - HTML | CSS | JavaScript  
@@ -15,8 +18,10 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 
 ### ⚡ Embedded Systems & IoT
 - Arduino | ESP32 | Raspberry Pi  
-- Hardware/Software Integration  
-- IoT Prototyping & Automation  
+- Hardware/Software Integration
+  *Integração de Hardware e Software*   
+- IoT Prototyping & Automation
+  *Prototipagem IoT & Automação*  
 
 ---
 
