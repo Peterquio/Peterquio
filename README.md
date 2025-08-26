@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Diego
 
 🎓 Technical School **Professor in Automation and Control**, with experience guiding students in the development of **dozens of real-world projects**.  
-  *🎓 Professor em Escola Técnica de **Automação e Controle**, com experiência orientando alunos no desenvolvimento de **dezenas de projetos reais**.*  
+&nbsp;  *🎓 Professor em Escola Técnica de **Automação e Controle**, com experiência orientando alunos no desenvolvimento de **dezenas de projetos reais**.*  
 💻 Passionate about **technology, automation, and software development**.  
-  *💻 Apaixonado por **tecnologia, automação e desenvolvimento de software**.*  
-I enjoy building solutions that connect **hardware and software**, from web applications to **embedded systems and IoT projects**.
-  *Gosto de criar soluções que conectam **hardware e software**, desde aplicações web até **sistemas embarcados e projetos de IoT**.*  
+&nbsp;  *💻 Apaixonado por **tecnologia, automação e desenvolvimento de software**.*  
+I enjoy building solutions that connect **hardware and software**, from web applications to **embedded systems and IoT projects**.  
+&nbsp;  *Gosto de criar soluções que conectam **hardware e software**, desde aplicações web até **sistemas embarcados e projetos de IoT**.*  
 
 ---
 
