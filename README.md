@@ -18,9 +18,9 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 
 ### ⚡ Embedded Systems & IoT
 - Arduino | ESP32 | Raspberry Pi  
-- Hardware/Software Integration
+- Hardware/Software Integration  
   *Integração de Hardware e Software*   
-- IoT Prototyping & Automation
+- IoT Prototyping & Automation  
   *Prototipagem IoT & Automação*  
 
 ---
