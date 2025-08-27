@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego
+# 👋 Hi, I'm Diego Morgado, a.k.a. Petérquio
 
 🎓 Technical School **Professor in Automation and Control**, with experience guiding students in the development of **dozens of real-world projects**.  
 &nbsp;  *🎓 Professor em Escola Técnica de **Automação e Controle**, com experiência orientando alunos no desenvolvimento de **dezenas de projetos reais**.*  
@@ -40,7 +40,7 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 ---
 
 ## 📫 Contact
-- LinkedIn: [Diego Morgado] ([https://linkedin.com/in/Diego Morgado](https://www.linkedin.com/in/diego-morgado-145ab912b/]))  
+- LinkedIn: [Diego Morgado](https://www.linkedin.com/in/diego-morgado-145ab912b/]))  
 - Email: beedrill.pwn@gmail.com  
 
 ---
