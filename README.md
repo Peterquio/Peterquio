@@ -41,7 +41,7 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 
 ## 📫 Contact
 - LinkedIn: [Diego Morgado](https://www.linkedin.com/in/diego-morgado-145ab912b/]))  
-- Email: beedrill.pwn@gmail.com  
+- Email: dfmorgs@gmail.com  
 
 ---
 ✨ Always learning, teaching, building and sharing knowledge!
