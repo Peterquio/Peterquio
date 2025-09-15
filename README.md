@@ -16,6 +16,8 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 - React (beginner)  
 - Git & GitHub  
 
+### Python Dev
+
 ### ⚡ Embedded Systems & IoT
 - Arduino | ESP32 | Raspberry Pi  
 - Hardware/Software Integration  
