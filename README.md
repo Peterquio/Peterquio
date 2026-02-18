@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego Morgado, a.k.a. Petérquio
+# 👋 Hi, I'm Diego, a.k.a. Petérquio
 
 🎓 Technical School **Professor in Automation and Control**, with experience guiding students in the development of **dozens of real-world projects**.  
 &nbsp;  *🎓 Professor em Escola Técnica de **Automação e Controle**, com experiência orientando alunos no desenvolvimento de **dezenas de projetos reais**.*  
