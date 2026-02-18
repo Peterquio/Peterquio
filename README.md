@@ -42,8 +42,7 @@ I enjoy building solutions that connect **hardware and software**, from web appl
 ---
 
 ## 📫 Contact
-- LinkedIn: [Diego Francisco](https://www.linkedin.com/in/diego-morgado-145ab912b/])  
-- Email: dfmorgs@gmail.com  
+- Email: dimorgs@gmail.com  
 
 ---
 ✨ Always learning, teaching, building and sharing knowledge!
